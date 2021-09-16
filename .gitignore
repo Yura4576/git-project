@@ -1,0 +1,8 @@
+bin/
+cmd/
+usr/
+etc/
+mingw64/
+dads.txt/
+dev/
+docs/*.txt
